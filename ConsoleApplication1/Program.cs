@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Zweite Änderung!");
             Console.WriteLine("Noch eine Änderung2");
+            Console.WriteLine("Test, ob es ohne Visual Studio funktioniert");
             Console.ReadKey();
         }
     }
